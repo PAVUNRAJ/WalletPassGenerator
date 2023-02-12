@@ -13,7 +13,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/JohnSundell/ShellOut.git", from: "2.3.0")
+        .package(url: "https://github.com/PAVUNRAJ/ShellOut.git", from: "2.3.0")
     ],
     targets: [
         .target(
